@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocationPicker</string>
+    <string name="text_sure">确定</string>
+    <string name="text_choose_area">选择地区</string>
+    <string name="text_cancel">取消</string>
+    <string name="text_result">结果</string>
+</resources>
