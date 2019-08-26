@@ -1,5 +1,5 @@
 # LocationPicker
-
+[![](https://jitpack.io/v/muyishuangfeng/LocationPicker.svg)](https://jitpack.io/#muyishuangfeng/LocationPicker)
 
 + 1、第一步：在Google的build文件夹下添加依赖
  
